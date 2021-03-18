@@ -11,7 +11,7 @@ with:
 <l><img src="https://render.githubusercontent.com/render/math?math=\alpha_f= Attenuation\\of\\Fiber"></l>
 <l><img src="https://render.githubusercontent.com/render/math?math=Ms= Margin\\System"></l>
 <p>Rise time budget (RTB) is a method for determining the dispersion limits of a fiber optic communication system link which limits the bit rate of transmission capability. It is desirable that information sent from the transmitter can be read and received well by the receiver. The purpose of this method is to analyze whether the design results have good performance and are able to meet the desired channel capacity. The equation for calculating RTB is as follows:</p>
-<p align="center"><img src="https://render.githubusercontent.com/render/math?math=\t_{sys}=\sqrt{t_{tx}^2 %2B t_{mat}^2 %2B t_{mod}^2 %2B t_{wg}^2 %2B t_{rx}}" weight=1000 height=50></p>
+<p align="center"><img src="https://render.githubusercontent.com/render/math?math=\t_{sys}=\sqrt{t_{tx}^2 %2B t_{mat}^2 %2B t_{mod}^2 %2B t_{wg}^2 %2B t_{rx}^2}" weight=1000 height=50></p>
 with:
 <l><img src="https://render.githubusercontent.com/render/math?math=\t_{sys}= Total\\Dispertion"></l>
 <l><img src="https://render.githubusercontent.com/render/math?math=\t_{tx}= Dispertion\\of\\Transmitter"></l>
