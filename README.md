@@ -1,5 +1,5 @@
 # Calculate-LPB-and-RTB-in-Fiber-Optic
-
+##This Project About How to Calculate LPB and RTB in Fibre Optic Using Python in Jupyter Notebook##
 <p>Link Power Budget (PLB) is an estimation of power requirements that is calculated to ensure that the level of receiving power is greater or equal to the threshold level (minimum power). LPB calculation is used to determine the maximum distance that can be achieved by the transmission system chosen, namely optical fiber. LPB calculations follow the ITU-T G.948 standard and also the regulations set by PT. Telkom Indonesia.The formula for calculating LPB is as follows:</p>
       <p align="center"><img src="https://render.githubusercontent.com/render/math?math=\alpha_T = 2\alpha_{c} %2B N_{s}\alpha_{s} %2B L\alpha_f %2B Ms" weight=1000 height=50></p>
 with:
